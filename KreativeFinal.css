@@ -1,0 +1,34 @@
+  li
+   {
+       text-align: center;
+       padding: 7;
+   }
+a{
+    color: black;
+}
+
+.format
+{
+    text-align: center;
+}
+.navbar
+{
+    width: 100%;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.sidebar
+{
+    background: rgb(198, 117, 223);
+    position: fixed;
+    z-index: 1;
+    height:100vh;
+    width: 25%;
+}
+
+
+
+
